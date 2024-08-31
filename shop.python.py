@@ -1,4 +1,4 @@
-print('            Welcome To Gada Electronics  ')
+print('            Welcome To Shop  ')
 print('Pick The Option ')
 def main():
     print('Press 1:-- For Enter in The Menu Of Store')
@@ -3137,5 +3137,5 @@ while x!=0:
         print()
         main()
         x=int(input('Pick Your Option:--'))
-print('Thank You For visiting in  Gada Electronics ')
+print('Thank You For visiting in  Shop ')
 print('Visit Again')
